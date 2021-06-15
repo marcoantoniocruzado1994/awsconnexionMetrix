@@ -1,0 +1,24 @@
+{
+  "name": "awsconnexionMetrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoantoniocruzado1994/awsconnexionMetrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoantoniocruzado1994/awsconnexionMetrix/issues"
+  },
+  "homepage": "https://github.com/marcoantoniocruzado1994/awsconnexionMetrix#readme",
+  "dependencies": {
+    "@sullux/aws-sdk": "^1.0.5",
+    "aws-sdk": "^2.928.0"
+  }
+}
